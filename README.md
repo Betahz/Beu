@@ -1,5 +1,4 @@
 Repositório Beu
 
-Usado para testes de aulas, ele será a base de alguns arquivos de aprendizagem.
-
+Branch teste
 Obrigada pela visita
